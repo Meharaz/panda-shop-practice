@@ -1,0 +1,25 @@
+.orange-bg {
+    background-color: #fceae8;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.cat1 {
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.cat2 {
+    background-color: pink;
+    border-radius: 5px;
+}
+
+.cat3 {
+    background-color: blue;
+    border-radius: 5px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
